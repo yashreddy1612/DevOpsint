@@ -1,2 +1,2 @@
-In this file I am writing the details of cse department.
+In this file I am writing the details of computer science and engineering department.
 It is in south block.
